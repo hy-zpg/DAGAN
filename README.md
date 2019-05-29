@@ -9,8 +9,8 @@
 <center>fake_samples_epoch_000</center>
 
 <div align="center">
-<img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_31" height="200px" alt="fake_samples_epoch_000" >
-<img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_30" height="200px" alt="fake_samples_epoch_000" >
+<img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_31.png" height="200px" alt="fake_samples_epoch_000" >
+<img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_30.png" height="200px" alt="fake_samples_epoch_000" >
 <img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_29.png" height="200px" alt="fake_samples_epoch_000" >
 <img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_23.png" height="200px" alt="fake_samples_epoch_000" >
 <img src="/omniglot/dagan/experiment/visual_outputs/val_z_spherical_omniglot_dagan_experiment_94_9_20.png" height="200px" alt="fake_samples_epoch_000" >
